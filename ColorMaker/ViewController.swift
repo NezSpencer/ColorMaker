@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var greenControl: UISlider!
     @IBOutlet weak var blueControl: UISlider!
 
-    // MARK: Life Cycle
+    // MARK: LifeCycle
     
     override func viewDidLoad() {
         super.viewDidLoad()
